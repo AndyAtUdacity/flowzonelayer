@@ -9,3 +9,11 @@ div.col-xs-3.ng-scope {
 div.col-xs-9.ng-scope {
 	width: 100%;
 }
+
+div.viewer-main {
+	width: 100%;
+}
+
+h1.left-hand-nav-title {
+	display: none;
+}
